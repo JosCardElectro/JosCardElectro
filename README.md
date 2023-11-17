@@ -33,17 +33,16 @@ I'm an Electronic Engineer with an emphasis on Digital Systems, possessing skill
   <img src="https://www.gns3.com/assets/custom/gns3/images/logo-colour.png" width="100" height="100">
   <img src="https://github.com/SantiagoBH/SantiagoBH/assets/47339991/5d423319-31d1-4570-99c6-7afbf79853be" width="100" height="100">
   <img src="https://github.com/SantiagoBH/SantiagoBH/assets/47339991/27ad9e99-6160-48d2-aa0b-32263d5a98de" width="100" height="100">
-    <img src="https://media.licdn.com/dms/image/C5612AQGic7wLijkgrw/article-inline_image-shrink_1000_1488/0/1624082949014?e=1698883200&v=beta&t=Rk301DHeQETaX3w9i_gUWPABEIl5wwchuhovUIbXnz4" width="100" height="100">
+ 
 <img src="https://github.com/JosCardElectro/JosCardElectro/assets/47165599/6e971cd3-2222-4033-ace7-588cce04209c" width="100" height="100">
 <img src="https://seeklogo.com/images/L/labview-logo-263E42F647-seeklogo.com.png" width="100" height="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Micropython-logo.svg" width="100" height="100">
 
 
-
-
-
+<img src="https://github.com/JsCc-Electro/Ima_profile/blob/main/introduction-to-cybersecurity.png?raw=true" width="100" height="100">
 
   
 
   
 </div>
+
